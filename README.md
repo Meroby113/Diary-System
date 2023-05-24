@@ -24,8 +24,8 @@ It asks you whether you have account or not .
 
 If you do not have account you should enter “Y” if not “N”.
 # Create An Account
- ![project1 3](https://github.com/Meroby113/Diary-System/assets/91911696/3dede9e3-6de4-4280-9f10-e036194f0e23){: style="float: left; margin-right: 1em;"}
- when you enter “N” you will be greeted with this page.
+![image](project1.3.jpeg){: style="float: left; margin-right: 1em;"}
+when you enter “N” you will be greeted with this page.
 
 . First thing you need to do is that enter a username and password.
 
@@ -38,13 +38,5 @@ There is no condition for creating username and password .
 You can all characters in the ASCII standard.
 
 After creating password and username if you see this message this means you opened new diary system.
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="graph_two.jpg" alt="">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
-  </div>
-</div>
+
 
