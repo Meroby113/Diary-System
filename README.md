@@ -24,7 +24,7 @@ It asks you whether you have account or not .
 
 If you do not have account you should enter “Y” if not “N”.
 # Create An Account
-![image](project1.3.jpeg){: style="float: left; margin-right: 1em;"}
+![image](project1.3.jpeg)
 when you enter “N” you will be greeted with this page.
 
 . First thing you need to do is that enter a username and password.
