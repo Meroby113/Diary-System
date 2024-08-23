@@ -37,6 +37,7 @@ There is no condition for creating username and password .
 
 You can all characters in the ASCII standard.
 
-After creating password and username if you see this message this means you opened new diary system.
+After creating password and username if you see this message this means you opened new diary system.<br/>
+Not: This is my first coding project, indentation is sucks
 
 
